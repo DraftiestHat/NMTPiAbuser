@@ -1,3 +1,1 @@
-# NMTPiAbuser
-A place for the code to test the Raspberry Pis
-Testing the git integration.
+Contains the code and our results from Fall 2015 for NMTech's CS Architecture course.
